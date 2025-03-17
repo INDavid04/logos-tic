@@ -113,7 +113,7 @@ c. software
 d. unitatea optica
 
 O extensie implicita corespunzatoare unui fisier de tip sunet poate fi:
-a. bmp 
+a. bmp s
 b. gif 
 c. mp3 
 d. pdf
